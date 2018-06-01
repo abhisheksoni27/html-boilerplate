@@ -1,2 +1,2 @@
 #!/bin/sh
-zip -r htmlb.zip index.html main.js style.css
+zip -r htmlb.zip index.html js css
