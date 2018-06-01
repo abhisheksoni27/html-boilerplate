@@ -1,2 +1,2 @@
 #!/bin/sh
-zip -r htmlb.zip index.html js css
+tar -zcvf htmlb.tar.gz index.html js css
